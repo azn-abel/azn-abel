@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently working towards my **PCEP entry-level Python certification**
 
-- 💬 Ask me about **discord.py**
+- 💬 Ask me about **discord.py** and my life at **NCSU**
 
 - 📫 How to reach me **aluprof4@gmail.com**, **alu4@ncsu.edu**
 
-- 📄 Know about my experiences [https://github.com/azn-abel/azn-abel/blob/main/resume%20for%20github.pdf](https://github.com/azn-abel/azn-abel/blob/main/resume%20for%20github.pdf)
+- 📄 Know about my experiences: [click here](https://github.com/azn-abel/azn-abel/blob/main/resume%20for%20github.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
