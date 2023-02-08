@@ -3,9 +3,11 @@
 <h1 align="center">Hi 👋, I'm Abel Lu</h1>
 <h3 align="center">Computer Science @ North Carolina State University</h3>
 
-- 🔭 I’m currently working on **Software Development Fundamentals @ NCSU**
+- 🔭 I’m currently enrolled in **Software Development Fundamentals @ NCSU**
 
-- 🌱 I’m currently working towards my **PCEP entry-level Python certification**
+- 👯 I'm looking to collaborate on **Genshin Wishing Simulator**
+
+- 🌱 I’m currently working towards my **PCAP Associate-Level Python certification**
 
 - 💬 Ask me about **discord.py** and my life at **NCSU**
 
