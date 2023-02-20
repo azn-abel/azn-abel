@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **aluprof4@gmail.com**, **alu4@ncsu.edu**
 
-- 📄 Know about my experiences: [View Resume](https://github.com/azn-abel/azn-abel/blob/main/GitHub%20Resume.pdf) | [Download Resume](https://github.com/azn-abel/azn-abel/blob/main/GitHub%20Resume.pdf?raw=true)
+- 📄 Know about my experiences: [View Resume](https://github.com/azn-abel/azn-abel/blob/main/Printable%20Resume%202_10_2022.pdf) | [Download Resume](https://github.com/azn-abel/azn-abel/blob/main/Printable%20Resume%202_10_2022.pdf?raw=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
