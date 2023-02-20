@@ -7,7 +7,7 @@
 
 - 👯 I'm looking to collaborate on **Genshin Wishing Simulator**
 
-- 🌱 I’m currently working towards my **PCAP Associate-Level Python certification**
+- 🌱 I’m currently learning **React.js**
 
 - 💬 Ask me about **discord.py** and my life at **NCSU**
 
