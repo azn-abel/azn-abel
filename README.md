@@ -1,5 +1,3 @@
-![banner_image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2021%2F01%2FNorth_Carolina_State_University_Logo.png&f=1&nofb=1&ipt=6b98a409e03702e5598b14142749d8abdce473098a12043605b300941c8ffdc9&ipo=images)
-
 <h1 align="center">Hi 👋, I'm Abel Lu</h1>
 <h3 align="center">Computer Science @ North Carolina State University</h3>
 
