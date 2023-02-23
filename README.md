@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abel Lu</h1>
+<h1 align="center">Hey there! I'm Abel Lu</h1>
 <h3 align="center">Computer Science @ North Carolina State University</h3>
 
 - 🔭 I’m currently enrolled in **Software Development Fundamentals @ NCSU**
