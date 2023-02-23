@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abel Lu</h1>
 <h3 align="center">Computer Science @ North Carolina State University</h3>
 
-- 🔭 I’m currently enrolled in **Software Development Fundamentals @ NCSU**.
+- 🔭 I’m currently enrolled in **Software Development Fundamentals @ NCSU**
 
 - 👯 I'm looking to collaborate on **Genshin Wishing Simulator**, a **discord.py** project!
 
-- 🌱 I’m currently learning **React.js**.
+- 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me: **aluprof4@gmail.com**, **alu4@ncsu.edu**
 
