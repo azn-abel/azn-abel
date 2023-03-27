@@ -9,4 +9,4 @@
 
 - 📫 How to reach me: **aluprof4@gmail.com**, **alu4@ncsu.edu**, [**LinkedIn**](https://www.linkedin.com/in/aluprof4/)
 
-- 📄 Know about my experiences: [View Resume](https://azn-abel.github.io/azn-abel/Printable%20Resume%203_8_2022.pdf) | [Download Resume](https://github.com/azn-abel/azn-abel/blob/main/Printable%20Resume%203_8_2022.pdf?raw=true)
+- 📄 Know about my experiences: <a href="https://azn-abel.github.io/azn-abel/Printable%20Resume%203_8_2022.pdf" target="_blank">View Resume</a> | [Download Resume](https://github.com/azn-abel/azn-abel/blob/main/Printable%20Resume%203_8_2022.pdf?raw=true)
