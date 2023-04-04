@@ -1,7 +1,9 @@
 <h1 align="center">Hey there! I'm Abel Lu 👋</h1>
 <h3 align="center">Computer Science @ North Carolina State University</h3>
 
-- 🔭 I’m currently enrolled in **Software Development Fundamentals @ NCSU**
+- 🔭 I’m currently enrolled in **Software Development Fundamentals** at **NC State**
+
+- 🏢 This summer, I will be working as a **Software Engineering Intern** at **Lowe's**
 
 - 👯 I'm looking to collaborate on **Genshin Wishing Simulator**, a **discord.py** project!
 
