@@ -5,7 +5,7 @@
 
 - 🏢 This summer, I will be working as a **Software Engineering Intern** at **Lowe's**
 
-- 👯 I'm looking to collaborate on **Genshin Wishing Simulator**, a **discord.py** project!
+- 👯 I'm looking to collaborate on **OsuBot**, a **discord.py** project!
 
 - 🌱 I’m currently learning **React.js**
 
