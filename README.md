@@ -1,13 +1,13 @@
 <h1 align="center">Hey there! I'm Abel Lu 👋</h1>
 <h3 align="center">Computer Science @ North Carolina State University</h3>
 
-- 🔭 I’m currently enrolled in **Software Development Fundamentals** at **NC State**
+- 📚 I’m currently enrolled in **Software Development Fundamentals** and **Intro to Data Science** at **NC State**
 
 - 🏢 This summer, I will be working as a **Software Engineering Intern** at **Lowe's**
 
 - 👯 I'm looking to collaborate on **OsuBot**, a **discord.py** project!
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React.js** and **matplotlib**
 
 - 📫 How to reach me: **aluprof4@gmail.com**, **alu4@ncsu.edu**, [**LinkedIn**](https://www.linkedin.com/in/aluprof4/)
 
