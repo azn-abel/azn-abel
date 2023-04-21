@@ -1,7 +1,9 @@
 <h1 align="center">Hey there! I'm Abel Lu 👋</h1>
 <h3 align="center">Computer Science @ North Carolina State University</h3>
 
-- 📚 I’m currently enrolled in **Software Development Fundamentals** and **Intro to Data Science** at **NC State**
+- 📚 I’m currently enrolled these courses at NC State:
+    - **Software Development Fundamentals (Java)**
+    - **Intro to Data Science (Python and R)**
 
 - 🏢 This summer, I will be working as a **Software Engineering Intern** at **Lowe's**
 
