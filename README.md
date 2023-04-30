@@ -20,6 +20,6 @@
 <div align="center" style="text-align: center;">
     
 [![Abel's GitHub stats](https://github-readme-stats.vercel.app/api?username=azn-abel&card_width=400px&line_height=26)](https://azn-abel.github.io)
-[![Abel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azn-abel&hide=yacc,jupyter%20notebook,game%20maker%20language&langs_count=3&card_width=400px)](https://azn-abel.github.io/#/projects)
+[![Abel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azn-abel&hide=yacc,jupyter%20notebook,game%20maker%20language&langs_count=3&card_width=400px&hide_progress=true)](https://azn-abel.github.io/#/projects)
     
 </div>
