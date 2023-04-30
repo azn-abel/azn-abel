@@ -15,4 +15,8 @@
 
 - 📄 Know about my experiences: <a href="https://azn-abel.github.io/azn-abel/LuAbelResume - 29Apr2023.pdf" target="_blank">View Resume</a> | [Download Resume](https://github.com/azn-abel/azn-abel/blob/main/LuAbelResume%20-%2029Apr2023.pdf?raw=true)
 
-<div align="center">[![Abel's GitHub stats](https://github-readme-stats.vercel.app/api?username=azn-abel)](https://azn-abel.github.io)</div>
+<div style="text-align: center;">
+    
+[![Abel's GitHub stats](https://github-readme-stats.vercel.app/api?username=azn-abel)](https://azn-abel.github.io)
+    
+</div>
