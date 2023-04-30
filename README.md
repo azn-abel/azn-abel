@@ -7,9 +7,11 @@
 
 - 🏢 This summer, I will be working as a **Software Engineering Intern** at **Lowe's**
 
-- 👯 I'm looking to collaborate on **OsuBot**, a **discord.py** project!
+- 👯 I'm looking to collaborate on **OsuBot**, a **discord.py** project
 
-- 🌱 I’m currently learning **React.js** and **matplotlib**
+- 🌱 I’m currently learning **ReactJS** and **matplotlib**
+
+- 💻 Check out my digital portfolio at https://azn-abel.github.io/
 
 - 📫 How to reach me: **aluprof4@gmail.com**, **alu4@ncsu.edu**, [**LinkedIn**](https://www.linkedin.com/in/aluprof4/)
 
