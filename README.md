@@ -20,6 +20,6 @@
 <div align="center" style="text-align: center;">
     
 [![Abel's GitHub stats](https://github-readme-stats.vercel.app/api?username=azn-abel)](https://azn-abel.github.io)
-[![Abel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azn-abel%hide=[Yacc])](https://azn-abel.github.io/#/projects)
+[![Abel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azn-abel&hide=[Yacc])](https://azn-abel.github.io/#/projects)
     
 </div>
