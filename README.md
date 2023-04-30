@@ -14,3 +14,5 @@
 - 📫 How to reach me: **aluprof4@gmail.com**, **alu4@ncsu.edu**, [**LinkedIn**](https://www.linkedin.com/in/aluprof4/)
 
 - 📄 Know about my experiences: <a href="https://azn-abel.github.io/azn-abel/LuAbelResume - 29Apr2023.pdf" target="_blank">View Resume</a> | [Download Resume](https://github.com/azn-abel/azn-abel/blob/main/LuAbelResume%20-%2029Apr2023.pdf?raw=true)
+
+[![Abel's GitHub stats](https://github-readme-stats.vercel.app/api?username=azn-abel)](https://github.com/anuraghazra/github-readme-stats)
