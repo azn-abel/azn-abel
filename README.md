@@ -19,7 +19,7 @@
 
 <div align="center" style="text-align: center;">
     
-[![Abel's GitHub stats](https://github-readme-stats.vercel.app/api?username=azn-abel&card_width=400px&line_height=20)](https://azn-abel.github.io)
+[![Abel's GitHub stats](https://github-readme-stats.vercel.app/api?username=azn-abel&card_width=300px&line_height=20)](https://azn-abel.github.io)
 [![Abel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azn-abel&hide=yacc&langs_count=8&hide_progress=true)](https://azn-abel.github.io/#/projects)
     
 </div>
