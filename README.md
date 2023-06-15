@@ -2,14 +2,14 @@
 <h3 align="center">CompSci @ NCSU | SWE Intern @ Lowe's | CSC 111 Teaching Assistant</h3>
 
 - 📚 I’m currently enrolled these courses at **NC State**:
-    - Software Development Fundamentals (Java)
-    - Intro to Data Science (Python and R)
+    - C / Software Tools
+    - Discrete Mathematics for Computer Science
 
 - 🏢 This summer, I am working as a **Software Engineering Intern** at **Lowe's**
 
 - 👯 I'm looking to collaborate on **OsuBot**, a **discord.py** project
 
-- 🌱 I’m currently learning **ReactJS** and **matplotlib**
+- 🌱 I’m currently learning **React**, **Redux**, and **Java Spring**
 
 - 💻 Check out my digital portfolio at https://azn-abel.github.io/
 
