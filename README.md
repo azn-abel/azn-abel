@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Abel Lu 👋</h1>
-<h3 align="center">CompSci @ NCSU | SWE Intern @ Lowe's | CSC 111 Teaching Assistant</h3>
+<h3 align="center">CompSci @ NCSU | DevOps @ RENCI | SWE @ Lowe's | CSC 111 Teaching Assistant</h3>
 
 - 📚 I’m currently enrolled these courses at **NC State**:
     - C / Software Tools
