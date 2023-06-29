@@ -5,7 +5,7 @@
     - C / Software Tools
     - Discrete Mathematics for Computer Science
 
-- 🏢 This summer, I am working as a **Software Engineering Intern** at **Lowe's**
+- 🏢 This summer, I am working as a **Software Engineer Intern** at **Lowe's**
 
 - 👯 I'm looking to collaborate on **OsuBot**, a **discord.py** project
 
