@@ -1,15 +1,15 @@
 <h1 align="center">Hey there! I'm Abel Lu 👋</h1>
-<h3 align="center">CompSci @ NCSU | DevOps @ RENCI | SWE @ Lowe's | CSC 111 Teaching Assistant</h3>
+<h3 align="center">CompSci @ NCSU | Platform Eng. @ RENCI | Prev. SWE @ Lowe's | CSC 111 Teaching Assistant</h3>
 
 - 📚 I’m currently enrolled these courses at **NC State**:
     - C / Software Tools
     - Discrete Mathematics for Computer Science
 
-- 🏢 This summer, I am working as a **Software Engineer Intern** at **Lowe's**
+- 🏢 This fall, I am working as a **Platform Engineering Intern** at **RENCI**
 
 - 👯 I'm looking to collaborate on **OsuBot**, a **discord.py** project
 
-- 🌱 I’m currently learning **React**, **Redux**, and **Java Spring**
+- 🌱 I’m currently learning about **Docker** and **Kubernetes**
 
 - 💻 Check out my digital portfolio at https://azn-abel.github.io/
 
