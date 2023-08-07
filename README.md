@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm Abel Lu 👋</h1>
+<h1 align="center">Hi, I'm Abel Lu 👋</h1>
 <h3 align="center">CompSci @ NCSU | Platform Eng. @ RENCI | Prev. SWE @ Lowe's | CSC 111 Teaching Assistant</h3>
 
 - 📚 I’m currently enrolled these courses at **NC State**:
