@@ -1,7 +1,7 @@
 # Hi, I'm Abel Lu 👋
 
 - 📚 I’m currently an **undergraduate computer science student** at **NC State**
-- 🏢 This fall, I am working as a **Platform Engineering Intern** at **RENCI**
+- 🏢 This spring, I am working as a **Platform Engineering Intern** at **RENCI**
 - 👯 I'm looking to collaborate on **OsuBot**, a **discord.py** project
 - 🌱 I’m currently learning about **Kubernetes** and **Go**
 - 💻 Check out my digital portfolio at https://azn-abel.github.io/
