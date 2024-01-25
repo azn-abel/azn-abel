@@ -9,4 +9,4 @@
 
 ## Open Source 💚
 - **Kubernetes Documentation** - [kubernetes/website](https://github.com/kubernetes/website)
-  - Contributions: [PRs](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Aazn-abel+is%3Aclosed), [issues assigned](https://github.com/kubernetes/website/issues?q=assignee%3Aazn-abel), [commits](https://github.com/kubernetes/website/commits/main/?author=azn-abel)
+  - Contributions: [PRs](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Aazn-abel), [issues assigned](https://github.com/kubernetes/website/issues?q=assignee%3Aazn-abel), [commits](https://github.com/kubernetes/website/commits/main/?author=azn-abel)
