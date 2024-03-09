@@ -4,7 +4,7 @@
 - ⭐ I specialize in **full-stack development**, **containerization**, and **Kubernetes**
 - 🏢 This spring, I am working as a **Platform Engineering Intern** at **RENCI**
 - 🌱 I’m currently learning about **ArgoCD**, **Jaeger** and other **Kubernetes Operators**
-- 💻 Check out my digital portfolio at https://azn-abel.github.io/
+- 💻 Check out my digital portfolio at https://abellu.com/
 - 📫 How to reach me: **aluprof4@gmail.com**, **alu4@ncsu.edu**, [**LinkedIn**](https://www.linkedin.com/in/aluprof4/)
 
 ## Open Source 💚
