@@ -1,8 +1,8 @@
 # Hey, I'm Abel 👋
 ![](https://komarev.com/ghpvc/?username=azn-abel)
-- 📚 I am an **undergraduate computer science student** at **NC State**
-- 💻 Check out my digital portfolio at https://abellu.com/
-- 📫 How to reach me: **aluprof4@gmail.com**, **alu4@ncsu.edu**, [**LinkedIn**](https://www.linkedin.com/in/aluprof4/)
+- 📚 I am a **computer science student** at **NC State**
+- 💻 Check out my website https://abellu.com/
+- 📫 Contact me: **aluprof4@gmail.com**, **alu4@ncsu.edu**, [**LinkedIn**](https://www.linkedin.com/in/aluprof4/)
 
 ## Open Source 💚
 - **Kubernetes Documentation** - [kubernetes/website](https://github.com/kubernetes/website)
